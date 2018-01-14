@@ -1,0 +1,84 @@
+*{margin: 0; padding: 0;} 
+.menutren {
+	min-height: 120px;
+	background-image: url(images/menu.JPG);
+	background-size: cover;
+}
+
+body {
+	font-family: segoe ui;
+	background-color: #F4F4F4;
+}
+hr.duongke {
+	margin-top: 0px;
+}
+
+h3.tdto {
+	color: #333;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.motsanpham {
+	background: white;
+	margin-bottom: 5px;
+	border-radius: 6px;
+}
+
+.motsanpham .tieude {
+	color: #242424;
+	font-weight: 700;
+}
+
+.motsanpham .noidungsp {
+	font-size: 14px;
+}
+
+.motsanpham .gia {
+	font-size: 17px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    padding-top: 0;
+}
+
+.motsanpham input {
+	width: 120%;
+	padding: 0px 6px 0px 6px;
+}
+
+.tinhgia .float-right {
+	font-weight: bold;
+	font-size: 15px;
+}
+.tinhgia .tamtinh {
+	padding: 0px 10px 20px 10px;
+	border-bottom: 1px solid #f1f1f1;
+}
+
+.thanhtien {
+	padding: 10px 10px 20px 10px;
+}
+.thanhtien .doto {
+	color: #fe3834;
+    font-size: 22px;
+    font-weight: 600;
+}
+a.tratien {
+	padding: 15px;
+}
+
+._1spkhac .tieudespkhac{
+	font-weight: bold;
+	font-size: 17px;
+	color: #444;
+}
+
+.sanphamkhac .col-sm-4 {
+	padding: 4px;
+}
+.gom {
+	color: #333;
+	font-weight: 400;
+}
